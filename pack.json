@@ -1,0 +1,10 @@
+{
+  "name": "Xbox 360 Blades",
+  "description": "Sound pack from the Xbox 360 Blades dashboard.",
+  "author": "squabbled",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
